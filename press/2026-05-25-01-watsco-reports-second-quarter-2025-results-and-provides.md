@@ -1,7 +1,9 @@
 ---
 title: Watsco Reports Second Quarter 2025 Results and Provides ...
 url: https://investors.watsco.com/news-releases/news-release-details/watsco-reports-second-quarter-2025-results-and-provides-update
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Watsco" press release artificial intelligence'
 position: 1
 source: serpapi-google
