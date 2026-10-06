@@ -42,10 +42,12 @@ tags:
   - Refrigeration
   - Fortune 1000
 created: '2025'
-modified: '2026-05-03'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis: []
 common:
+  - url: https://www.watsco.com/blogs/
+    type: Blog
   - type: DomainSecurity
     url: security/watsco-domain-security.yml
   - type: LinkedIn
